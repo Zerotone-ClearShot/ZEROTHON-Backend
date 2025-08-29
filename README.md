@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./src/assets/image.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="./.github/src/image.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
